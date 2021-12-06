@@ -2,7 +2,7 @@ import Header from "./Page/Header";
 import MenuMakanan from "./Page/MenuMakanan";
 import Footer from "./Page/Footer";
 
-function App() {
+function AppBasic() {
   return (
     <div>
       <Header name="Makanan Khas Nusantara"/>
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppBasic;
