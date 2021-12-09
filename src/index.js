@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import AppStyle from './TugasStyle/AppStyle';
+import AppFormValidation from './TugasFormValidation/AppFormValidation'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <AppStyle />
+    <AppFormValidation />
   </React.StrictMode>,
   document.getElementById('root')
 );
