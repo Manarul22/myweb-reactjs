@@ -1,4 +1,5 @@
 import "../Css/style.css";
+import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 
 const About = () => {

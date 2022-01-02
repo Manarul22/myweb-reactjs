@@ -2,6 +2,7 @@ import "../Css/style.css";
 import facebook from "../Image/facebook.png";
 import ig from "../Image/ig.png";
 import wa from "../Image/wa.png";
+import React from "react";
 import { Container, Row, Col, Image } from "react-bootstrap";
 
 const Contact = () => {

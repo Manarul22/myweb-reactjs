@@ -2,6 +2,7 @@ import "../Css/style.css";
 import github from "../Image/github.png";
 import gitlab from "../Image/gitlab.png";
 import linkedin from "../Image/linkedin.png";
+import React from "react";
 import { Container, Row, Col, Image, Button } from "react-bootstrap";
 
 const Portfolio = () => {
